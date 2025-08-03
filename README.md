@@ -4,6 +4,8 @@ This project implements a reinforcement learning (RL) agent to play **Flappy Bir
 
 > Note: This version of Flappy Bird is **more challenging than usual**, with **pipes appearing more frequently**, making learning and survival more difficult.
 
+![Screen Recording 2025-08-02 at 9 00 30 pm](https://github.com/user-attachments/assets/c7b91abc-8a35-4228-b493-65ed87653631)
+
 
 ## Features
 
